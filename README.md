@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rituportfolio22.netlify.app/](https://rituportfolio22.netlify.app/)
 
-- 📝 I regularly write articles on [https://real-life-jacket-bull.cyclic.app/](https://real-life-jacket-bull.cyclic.app/)
+<!--- 📝 I regularly write articles on [https://real-life-jacket-bull.cyclic.app/](https://real-life-jacket-bull.cyclic.app/)  -->
 
 - 📫 How to reach me **8228935781r@gmail.com**
 
